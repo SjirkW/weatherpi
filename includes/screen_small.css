@@ -1,0 +1,59 @@
+@charset "utf-8";
+#nav {
+	padding-left: 0px;
+	position: relative;
+	margin-top: 20px;
+	z-index:0;
+}
+
+#mainnav a {
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#mainnav ul {
+	list-style-type: none;
+	background-color: #006666;
+	margin: 0px;
+    padding: 0px;
+	margin-right: 5%;
+	margin-left: 5%;	
+}
+
+#wrapper {
+	min-width: 300px;
+	margin-top: 10px;
+}
+
+#temperature {
+	width:100%;
+	float: left;
+	clear: left;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+#weatherforecast {
+	width:100%;
+	float: left;
+    margin-top: 2%;
+	margin-left: 0px;
+}
+
+#tempgraph{
+	float:left;
+	width: 100%;
+	margin-top: 2%;
+	margin-left: 0px;
+}
+
+#top_panel{
+	width:100%;
+	float: left;
+	clear: left;
+	margin-top: 0px;
+	margin-left: 0px;
+}
